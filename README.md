@@ -7,9 +7,9 @@ Project repository for JavaND Project 2, where students implement a Vehicles API
 Check each component to see its details and instructions. Note that all three applications
 should be running at once for full operation. Further instructions are available in the classroom.
 
-- [Vehicles API](vehicles-api/README.md)
-- [Pricing Service](pricing-service/README.md)
-- [Boogle Maps](boogle-maps/README.md)
+- [Vehicles API](projects/P02-VehiclesAPI/vehicles-api/README.md)
+- [Pricing Service](projects/P02-VehiclesAPI/pricing-service/README.md)
+- [Boogle Maps](projects/P02-VehiclesAPI/boogle-maps/README.md)
 
 ## Dependencies
 
